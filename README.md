@@ -20,6 +20,8 @@ This repository documents my learning journey in **CATIA V5**, where I practice 
 ## Projects
 ### 1. Jug Model
 A beginner-level part created to understand the basics of sketching, solid modeling, and surface design in CATIA V5.
+### 2. Soap holder
+A beginner-level part created to understand the basics of sketching, solid modeling, and surface design in CATIA V5.
 
 ## Software
 - CATIA V5
